@@ -1,0 +1,12 @@
+#!/bin/bash
+# Take photos with a delay
+
+echo "take empty.jpg photo before the test"
+cp empty.jpg prev.jpg
+
+while :
+do
+	sleep 5m
+	echo "foto"
+	python3 /home/malu/Documents/bus/main.py
+done

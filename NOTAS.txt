@@ -1,0 +1,16 @@
+Preparar un Demo
+
+Recolectar un time lapse de una flota estatica de cada 10 minutos
+El programa debe setear un estado inicial
+Se debe terminar la prueba
+EN UNA RASPBERRY PI
+Que guarde las fotos
+
++ tener un input para sacar la foto
+
+Otra herramienta que compare imagen contra cero (automatizar el proceso)
+Res n-1 = Imagen n-1 vs Imagen 0
+Res n = Imagen n vs Imagen 0
+Diff = Res n-1 vs Res n
+if Diff > 30% then save n
+
